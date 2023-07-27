@@ -1,5 +1,15 @@
 # Credit-Card--UI
 
+## Description
+
+Introducing "CreditCard UI" - a sleek and intuitive credit card user interface application developed by me, as part of my journey to enhance my UI design skills. This GitHub project showcases a beautifully crafted, one-screen application focused on providing users with a seamless and delightful credit card management experience.
+
+The "CreditCardUI" app features an elegant and modern design, highlighting essential credit card information such as card number, expiration date, and CVV code.
+
+With a strong emphasis on user experience, the application incorporates smooth animations and interactive elements, ensuring a visually appealing and engaging interaction. The clean layout and carefully chosen color schemes contribute to a visually harmonious experience.
+
+As an open-source project, "CreditCard UI" invites developers and UI enthusiasts to contribute, providing a collaborative space to learn and grow together. Whether you're a seasoned developer looking to explore UI design or a UI designer seeking to strengthen your skills, this application serves as an excellent example of a well-crafted credit card UI.
+
 ## Screenshots
 
 <p>
@@ -7,6 +17,9 @@
   <img src="https://github.com/Aviral-Kaushik/Credit-Card--UI/blob/main/images/image2.jpeg" width="300px" style="padding: 10px" height="auto">
 </p>
 
-## Description
+## Developer Links
 
-Introducing "CreditCardUI" - a one-screen credit card user interface application on GitHub, developed by me to enhance my UI design skills. The sleek and modern design allows easy management of multiple credit cards with smooth animations and interactive elements. Join me in this open-source project to create a seamless credit card experience for users!
+**Aviral Kaushik :-- [Official Website](http://aviralkaushik.epizy.com/)**
+**Aviral Kaushik :-- [Instagram](https://www.instagram.com/aviral_3101/)**
+**Aviral Kaushik :-- [Facebook](https://www.facebook.com/aviral.kaushik.16)**
+
